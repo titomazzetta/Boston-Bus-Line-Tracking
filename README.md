@@ -19,10 +19,10 @@
 <h2>Installation and Setup</h2>
 <p>To run this refactored code on your local machine, follow these steps:</p>
 <ol>
-  <li>Clone the repository to your local environment using the following command:
-    <code>git clone https://github.com/your-username/repository-name.git</code></li>
-  <li>Replace the existing API keys in the code with your own Mapbox API key. You can obtain an API key by signing up for an account on the <a href="https://www.mapbox.com/">Mapbox website</a>.</li>
-  <li>Run the application and verify that the map overlay, custom marker icons, directional markers, and icon tracers are functioning as intended.</li>
+    <li>Download all three files (<code>index.html</code>, <code>mapanimation.js</code>, and <code>styles.css</code>) and place them in the same folder on your computer.</li>
+    <li>Open the <code>index.html</code> file in a web browser by dragging and dropping it into the browser window.</li>
+    <li>Replace the existing API keys in the code with your own Mapbox API key. You can obtain an API key by signing up for an account on the <a href="https://www.mapbox.com/">Mapbox website</a>.</li>
+    <li>Run the application and verify that the map overlay, custom marker icons, directional markers, and icon tracers are functioning as intended.</li>
 </ol>
 
 <h2>Contribution and Feedback</h2>
