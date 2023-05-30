@@ -37,4 +37,4 @@
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>. You are free to modify and distribute the code as per the terms of this license.</p>
 
 <h2>Acknowledgements</h2>
-<p>We would like to express our gratitude to the original author of the coding assignment and the Mapbox team for providing an excellent mapping solution. Additionally, we sourced the updated custom marker icons from "Font Awesome," a comprehensive library of scalable vector icons that greatly enhanced the visual representation of our map markers. Their contributions have been instrumental in the development of this refactored codebase.</p>
+<p>I would like to express our gratitude to the original author of the coding assignment and the Mapbox team for providing an excellent mapping solution. Additionally, I sourced the updated custom marker icons from "Font Awesome," a comprehensive library of scalable vector icons that greatly enhanced the visual representation of our map markers.</p>
