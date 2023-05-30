@@ -1,4 +1,4 @@
-<h1>Code Refactoring with Mapbox API Integration</h1>
+<h1>Real Time Bus Tracking (Refactored)</h1>
 
 <p>This repository contains the refactored code for a coding assignment that originally utilized the Google Maps API for map overlay functionality. The code has been modified to replace the Google Maps API with the Mapbox API. I then tweaked an refactored other parts of the code to have a more unique experience. 
 
