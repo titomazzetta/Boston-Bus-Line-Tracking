@@ -28,7 +28,7 @@
 <h2>Roadmap of Future Improvments</h2>
 <p>Would love to figure how to create a tracing line that connects to the updated position of the markers</P
 
-<h2>Contribution and Feedback</h2>
+<h3>Contribution and Feedback</h3>
 <p>Contributions to this repository are welcome. If you encounter any issues or have suggestions for further enhancements, please feel free to open an issue or submit a pull request. Your feedback will be highly appreciated and will help improve the codebase.</p>
 
 <h2>License</h2>
